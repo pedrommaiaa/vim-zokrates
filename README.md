@@ -5,3 +5,25 @@ Syntax files for [ZoKrates](https://github.com/Zokrates/ZoKrates), a toolbox for
 > **Warning**
 >
 > This repo contains **highly** experimental code. Expect rapid iteration.
+
+## Installation
+
+### Plug
+
+Add the following line to your `~/.vimrc`:
+
+```vim
+Plug 'pedrommaiaa/vim-zokrates'
+```
+
+### Vundle
+
+Add the following line to your `~/.vimrc`:
+
+```vim
+Plug 'pedrommaiaa/vim-zokrates'
+```
+
+### No Plugin Manager
+
+Copy all of the files manually into your `~/.vim`.
